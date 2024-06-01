@@ -4,7 +4,7 @@
 
 ### 🕹Como Jogar:
  - Controles do **Jogador 1**:
-   > Use as teclas seta para cima e seta para baixo para mover sua raquete verticalmente.
+    > Utilize as teclas W (para cima) e S (para baixo) para movimentar sua raquete verticalmente.
 
  - Controles do **Jogador 2**:
-   > Utilize as teclas W (para cima) e S (para baixo) para movimentar sua raquete verticalmente.
+    > Use as teclas seta para cima e seta para baixo para mover sua raquete verticalmente.
